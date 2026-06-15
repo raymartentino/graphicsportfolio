@@ -6,7 +6,7 @@ for (let i = 0; i < lines.length - 1; i++) {
   const line = lines[i];
   const next = lines[i+1];
   if (/imageUrl:\s*".*\/projects\/ecom_photo\//.test(line) && /tools:\s*\[\s*\],?\s*$/.test(next)) {
-    lines[i+1] = next.replace(/tools:\s*\[\s*\],?\s*$/, 'tools: ["Figma","Photoshop"],');
+    lines[i+1] = next.replace(/tools:\s*\[\s*\],?\s*$/, 'tools: ["Canva","Photoshop"],');
     changed++;
   }
   if (/imageUrl:\s*".*\/projects\/Tarpaulin\//.test(line) && /tools:\s*\[\s*\],?\s*$/.test(next)) {

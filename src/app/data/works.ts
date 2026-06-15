@@ -20,7 +20,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/aloevera.jpg",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "2",
@@ -31,7 +31,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/antibac.jpg",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "3",
@@ -42,7 +42,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/axistar small.jpg",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "4",
@@ -53,7 +53,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/AXISTART.jpg",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "5",
@@ -64,7 +64,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/BAMBOO CHARCOAL COVER.jpg",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "6",
@@ -75,7 +75,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/BARE VANILLA .jpg",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "7",
@@ -86,7 +86,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/Botox.jpg",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "8",
@@ -97,7 +97,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/Brazilian Botox.jpg",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "9",
@@ -108,7 +108,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/Brazilian Botox.png",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "10",
@@ -119,7 +119,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/Brazilian Cysteine.png",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "11",
@@ -130,7 +130,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/Brazilian Lavender.png",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "12",
@@ -141,7 +141,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/BRAZILIAN SHAMPOO&CONDI FEEDBACK 1.jpg",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "13",
@@ -152,7 +152,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/Brazilian Shampoo&Condi.jpg",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "14",
@@ -163,7 +163,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/Calamansi Peel.jpg",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "15",
@@ -174,7 +174,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/CALAMANSI.jpg",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "16",
@@ -185,7 +185,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/CB SOAP.jpg",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "17",
@@ -196,7 +196,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/coco V4.jpg",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "18",
@@ -207,7 +207,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/Comfy B1T1.png",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "19",
@@ -218,7 +218,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/Comfy.png",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "20",
@@ -229,7 +229,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/Glutathione Niacinamide Pouch.png",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "21",
@@ -240,7 +240,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/GLUTATHIONE.jpg",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "22",
@@ -251,7 +251,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/Hair Mask Brazilian Blowout Layout 1 V2_094725.jpg",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "23",
@@ -262,7 +262,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/Hair Mask Brazilian Blowout Layout 2 V2_094952.jpg",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "24",
@@ -273,7 +273,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/IMG_20240807_131723_882.png",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "25",
@@ -284,7 +284,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/incantho.png",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "26",
@@ -295,7 +295,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/LEMON.jpg",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "27",
@@ -306,7 +306,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/LIFUSHA.jpg",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "28",
@@ -317,7 +317,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/Lotion Collection.png",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "29",
@@ -328,7 +328,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/LOTION FEEDBACK 1.jpg",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "30",
@@ -339,7 +339,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/LOTION HAND CREAM LAZADA.jpg",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "31",
@@ -350,7 +350,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/LOTION V2.jpg",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "32",
@@ -361,7 +361,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/Meow.png",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "33",
@@ -372,7 +372,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/Papaya Lotion.png",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "34",
@@ -383,7 +383,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/Perfume Collection - Men.png",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "35",
@@ -394,7 +394,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/Perfume Collection - Women.png",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "36",
@@ -405,7 +405,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/perma V2.jpg",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "37",
@@ -416,7 +416,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/PHC CHESTNUT BRONW.jpg",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "38",
@@ -427,7 +427,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/resellers.jpg",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "39",
@@ -438,7 +438,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/sale.jpg",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "40",
@@ -449,7 +449,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/STARSHOP.jpg",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "41",
@@ -460,7 +460,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/ecom_photo/TOILET SHOPEE.jpg",
-      tools: ["Figma","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "42",
@@ -471,7 +471,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/Tarpaulin/dos otso prints.jpg",
-      tools: ["Illustrator","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "43",
@@ -482,7 +482,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/Tarpaulin/Final 2 by3 liam.jpg",
-      tools: ["Illustrator","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "44",
@@ -493,7 +493,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/Tarpaulin/KITCHENNETE 2 BY 3 TARP.jpg",
-      tools: ["Illustrator","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "45",
@@ -504,7 +504,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/Tarpaulin/parlor.jpg",
-      tools: ["Illustrator","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "46",
@@ -515,7 +515,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/Tarpaulin/SIP CAFE 2 BY 3 BEER TARP final.jpg",
-      tools: ["Illustrator","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "47",
@@ -526,7 +526,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/Tarpaulin/UNICORN 1 - AUGUST 8.jpg",
-      tools: ["Illustrator","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "48",
@@ -537,7 +537,7 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/Tarpaulin/Wed inv 1 copy.jpg",
-      tools: ["Illustrator","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
   {
     id: "49",
@@ -548,6 +548,6 @@ export const works: Work[] = [
     medium: "Digital Design",
     dimensions: "Promotional",
       imageUrl: "/projects/Tarpaulin/WEDING.jpg",
-      tools: ["Illustrator","Photoshop"],
+      tools: ["Canva","Photoshop"],
     },
 ];
